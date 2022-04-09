@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CACD,CAAC,AAAA,OAAO,CACR,CAAC,AAAA,QAAQ,AAAC,CACR,UAAU,CAAE,UAAU,CACtB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/base/_reset.scss",
+        "../sass/utils/_vars.scss",
+        "../sass/base/_common.scss",
+        "../sass/components/_header.scss",
+        "../sass/components/_hero.scss",
+        "../sass/components/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
